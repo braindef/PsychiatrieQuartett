@@ -16,3 +16,8 @@ Rückseite ist im Ordner: Rückseite
 Möge dieses Repo unter Creative Commons by-nc-sa stehen + mögen die Lizenzbedingungen für den Fall dass damit Kinder oder Jüngere geschützt werden können auch umgangen werden...
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+und ja so far, es ist zur Zeit noch ein Prototyp und scheinbar will da "zufällig" niemand mitmachen => DSM <=> MKULTRA ist somit ev recht mächtig
+
+
