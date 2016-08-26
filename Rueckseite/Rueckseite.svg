@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="148mm"
@@ -26,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="303.02359"
-     inkscape:cy="145.39246"
+     inkscape:cx="304.4378"
+     inkscape:cy="201.961"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +36,9 @@
      inkscape:window-height="834"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -183,5 +186,35 @@
          y="1028.6106"
          id="tspan2998-5"
          style="text-align:center;text-anchor:middle;fill:#0000ff">https://github.com/braindef/PsychiatrieQuartett</tspan></text>
+    <image
+       y="694.86969"
+       x="17.695961"
+       id="image3010"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB7CAYAAABUx/9/AAAABHNCSVQICAgIfAhkiAAAAzpJREFU
+eJzt3dFS3TAMhGFgeP9Xpje0cy5QI1u7Tob9v8tO4gQ0VlxFDm9vAAAAAAAAAABked8450t+F737
+eL3ue/HvnTGrcapj3GNOLMXvw3ADeCiCHeRzeP7OY+CvKq11UuLqPajGrMapHivVOI7f2yVmdhCC
+HWSaxl910sskhU5Wwp0061iBd6h+b5eY2UEIdhBlGleZpLVOKl5dOXfSvqNgIsfMDkKwgzwxjasK
+FKuPg87xnZQuWTk7MLODEOwgyjSuSl+r6bRzDycfB6uOpX1mdhCCHWSaxt3FhElNezKOqsZ+smvl
+EjM7CMEO8tgCwDfHSnhSAFlNv4/6/TKzgxDsIKf7xldX0Z1z7+o2mdzD6kpeUntnZgch2EFOrBZV
+qdWRuh3cj4zOtX7EzA5CsIOcWI27V6oVVQHE0QDZOVeOmR2EYAfZecU5KYxMxnnC9h/V60vHztNL
+zOwgBDuIayWoWnVXHI8A1bmOQpAEMzsIwQ4yTRuObS+TFOdYLTtW6ZP3AtU9XGJmByHYQaa1cVX3
+hYqqE6Zy8nUqnSrYR7CDnC6qdK6tWv1WY7p7xV+pPsBLbRxrCHaQnVeck//gT4oVE6omQMdntVTX
+usTMDkKwg7iKKpPrqRoLHam1w7Edido41hDsICeKKu6VajXm6rkqjle0rMaxhmAHUa7GHce/UtXS
+O8e4N/jf0ojIzA5CsIM8vW/8ZCfMyRX+yW+//MPMDkKwg5xuOJxeW8FRG3f0tFMbxz6CHeTOv/7j
+6MFWbdjvXHdSIJpsU2I1jmsEO8iJNO7egH/Xlww7adbxs29jZgch2EFOFFU640yornVyW9DkHrbr
+5MzsIAQ7yF316f9xPA7cK3nHDlN58yEzOwjBDjJdjauo0tfJXZ+r47g7ai4xs4MQ7CDT2vhkNa/a
+jO/4Bktn/M61qmMmWI3jGsEOonzF+YQ/l+D4eGxn/IrjC4fbmNlBCHaQOxsOO1a7QapjqjEnaVn1
+iFk9ZhszOwjBDvL0NF6565NT7t71zjjbmNlBCHYQZRp3d704CiaO76JUbv+cFzM7CMEO8vROldVz
+K45V9F1973Sq4BrBBgAAAAAAAAAAv9Yf4R3n5l46iqUAAAAASUVORK5CYII=
+"
+       height="123"
+       width="123" />
+    <image
+       y="694.86969"
+       x="268.84018"
+       id="image3010-3"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB7CAYAAABUx/9/AAAABHNCSVQICAgIfAhkiAAAAzpJREFU eJzt3dFS3TAMhGFgeP9Xpje0cy5QI1u7Tob9v8tO4gQ0VlxFDm9vAAAAAAAAAABked8450t+F737 eL3ue/HvnTGrcapj3GNOLMXvw3ADeCiCHeRzeP7OY+CvKq11UuLqPajGrMapHivVOI7f2yVmdhCC HWSaxl910sskhU5Wwp0061iBd6h+b5eY2UEIdhBlGleZpLVOKl5dOXfSvqNgIsfMDkKwgzwxjasK FKuPg87xnZQuWTk7MLODEOwgyjSuSl+r6bRzDycfB6uOpX1mdhCCHWSaxt3FhElNezKOqsZ+smvl EjM7CMEO8tgCwDfHSnhSAFlNv4/6/TKzgxDsIKf7xldX0Z1z7+o2mdzD6kpeUntnZgch2EFOrBZV qdWRuh3cj4zOtX7EzA5CsIOcWI27V6oVVQHE0QDZOVeOmR2EYAfZecU5KYxMxnnC9h/V60vHztNL zOwgBDuIayWoWnVXHI8A1bmOQpAEMzsIwQ4yTRuObS+TFOdYLTtW6ZP3AtU9XGJmByHYQaa1cVX3 hYqqE6Zy8nUqnSrYR7CDnC6qdK6tWv1WY7p7xV+pPsBLbRxrCHaQnVeck//gT4oVE6omQMdntVTX usTMDkKwg7iKKpPrqRoLHam1w7Edido41hDsICeKKu6VajXm6rkqjle0rMaxhmAHUa7GHce/UtXS O8e4N/jf0ojIzA5CsIM8vW/8ZCfMyRX+yW+//MPMDkKwg5xuOJxeW8FRG3f0tFMbxz6CHeTOv/7j 6MFWbdjvXHdSIJpsU2I1jmsEO8iJNO7egH/Xlww7adbxs29jZgch2EFOFFU640yornVyW9DkHrbr 5MzsIAQ7yF316f9xPA7cK3nHDlN58yEzOwjBDjJdjauo0tfJXZ+r47g7ai4xs4MQ7CDT2vhkNa/a jO/4Bktn/M61qmMmWI3jGsEOonzF+YQ/l+D4eGxn/IrjC4fbmNlBCHaQOxsOO1a7QapjqjEnaVn1 iFk9ZhszOwjBDvL0NF6565NT7t71zjjbmNlBCHYQZRp3d704CiaO76JUbv+cFzM7CMEO8vROldVz K45V9F1973Sq4BrBBgAAAAAAAAAAv9Yf4R3n5l46iqUAAAAASUVORK5CYII= "
+       height="123"
+       width="123" />
   </g>
 </svg>
