@@ -5,6 +5,7 @@
  * Technologie Karten
  * Methoden Karten
  * Algorithmen Karten
+ * sonstige häufige Archetypen in Filmen
 
 verwendete Software:
 Inkscape on GNU debian jessie/stretch Linux
