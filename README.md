@@ -20,4 +20,4 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 und ja so far, es ist zur Zeit noch ein Prototyp und scheinbar will da "zufällig" niemand mitmachen => DSM <=> MKULTRA ist somit ev recht mächtig
 
-
+Das Projekt ist für den Moment mal auf http://marclandolt.ch/PsychiaterQuartettKarten/description.html zuhause...
