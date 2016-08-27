@@ -29,7 +29,7 @@ $ext = strtolower(pathinfo($image, PATHINFO_EXTENSION));
 if (in_array($ext, $supported_file)) {
 //    print $image ."<br />";
 
-    echo '<a href="./'.$image .'"><img width='.$spin.' src="'.$image .'" ></a>'." . ";
+    echo '<a href="./'.$image .'" target=_blank><img width='.$spin.' src="'.$image .'" ></a>'." . ";
     echo '
 ';
 
