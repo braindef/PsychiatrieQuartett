@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="262.20471"
+   height="372.04724"
+   id="svg3254"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="template.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
+     id="namedview3503"
+     showgrid="false"
+     inkscape:zoom="1.7941507"
+     inkscape:cx="312.79413"
+     inkscape:cy="201.49832"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3254" />
+  <defs
+     id="defs3256" />
+  <metadata
+     id="metadata3259">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#000000"
+     id="rect3347-5-4"
+     y="17.675356"
+     x="11.550276"
+     ry="10.090624"
+     rx="10.1633"
+     height="337.31516"
+     width="239.56349" />
+  <rect
+     style="fill:#afdde9"
+     id="rect3347-5"
+     y="25.767763"
+     x="19.120329"
+     ry="4.7604961"
+     rx="4.7604961"
+     height="318.27316"
+     width="224.42339" />
+       
+  <text  y="208.1814" fill="red">
+
+        <tspan x="28.171865">Card 1</tspan>
+        <tspan x="28.171865" dy="15">Text  .  .  .  .  .  .  .  .</tspan>
+        <tspan x="28.171865" dy="15">Text  .  .  .  .  .  .  .  .</tspan>
+  </text>
+
+  <image
+     y="25.774496"
+     x="19.911436"
+     id="image3972"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAuCAYAAACPtY89AAAABHNCSVQICAgIfAhkiAAAAH1JREFU
+aIHt0MENwCAQwLDS/Xc+RiA/hGRPEGXNzHwc/bcDXmFUZFRkVGRUZFRkVGRUZFRkVGRUZFRkVGRU
+ZFRkVGRUZFRkVGRUZFRkVGRUZFRkVGRUZFRkVGRUZFRkVGRUZFRkVGRUZFRkVGRUZFRkVGRUZFRk
+VGRUZFS0AXHWBFho/MDkAAAAAElFTkSuQmCC
+"
+     height="138.52289"
+     width="222.84117" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:2.96203756;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4383-4"
+     y="23.180201"
+     x="19.658941"
+     ry="2.9620376"
+     rx="2.9620376"
+     height="143.25775"
+     width="223.34616" />
+  <rect
+     style="fill:#00aa88;stroke:#000000;stroke-width:3.80839682;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect3416"
+     y="26.089685"
+     x="17.132368"
+     rx="9.5209923"
+     height="25.438826"
+     width="228.39931" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"
+     id="text3388"
+     y="44.094753"
+     x="95.265617"><tspan
+       style="font-size:16px"
+       id="tspan3390"
+       y="44.094753"
+       x="95.265617">Template</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"
+     id="text3392"
+     y="183.80905"
+     x="106.2246"><tspan
+       style="font-size:12px"
+       id="tspan3394"
+       y="183.80905"
+       x="106.2246">Abstract</tspan></text>
+</svg>
