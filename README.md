@@ -1,5 +1,7 @@
 # Psychiater Quartett / Psychiatrie Quartett
-German only Version ends here -> multilanguage version continues here: https://github.com/braindef/Shrink-Disorder-Game
+
+
+**OUTDATED** ⇨ https://github.com/braindef/Shrink-Disorder-Game
 
 
  * (klassische) Psychiater
